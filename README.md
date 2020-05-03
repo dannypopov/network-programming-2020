@@ -14,7 +14,7 @@ You can either directly run the .jar.
 Or import it in your java application!
 
 ## Usage
-* 1 - Directly run it:
+* Directly run it:
 **java -cp <spamdigger.jar> Main <ip addresses>**
 Example:
 
@@ -22,12 +22,12 @@ Example:
 $ java -cp Homework1-1.0-SNAPSHOT.jar Main 114.231.105.37
 ```
 
-* 2 - Import it as external .jar
+* Import it as external .jar
  
   [InteliJ](https://stackoverflow.com/questions/1051640/correct-way-to-add-external-jars-lib-jar-to-an-intellij-idea-project)
  
   [Eclipse](https://www.albany.edu/faculty/jmower/geog/gog692/ImportExportJARFiles.htm)
-* 3 - Create new project from the provided source files
+* Create new project from the provided source files
 
 ## Built With
 * Java 8
