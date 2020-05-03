@@ -36,7 +36,6 @@ $ java -cp Homework1-1.0-SNAPSHOT.jar Main 114.231.105.37
 
 ## Author
 * Йордан Лилянов Попов
-* Информатика 3 курс 2 група
-* ФН: 45166
+* ФН: ~
 ## License
 [MIT](https://choosealicense.com/licenses/mit/) license 
