@@ -35,7 +35,7 @@ $ java -cp Homework1-1.0-SNAPSHOT.jar Main 114.231.105.37
 * [InteliJ (IDE)](https://www.jetbrains.com/idea/documentation/)
 
 ## Author
-* Йордан Лилянов Попов
+* ~
 * ФН: ~
 ## License
 [MIT](https://choosealicense.com/licenses/mit/) license 
